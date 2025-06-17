@@ -11,4 +11,4 @@ The program tells the user whether the guess is too high, too low, or correct.
 3. Run:
 
 ```bash
-python guess.py
+python game.py
